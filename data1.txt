@@ -1,7 +1,7 @@
 Hi Good Morning 
 Its nice to meet you
-<<<<<<< HEAD
+
  a b c d e
-=======
+
 1 2 3 4 5 6
->>>>>>> f37cb60aa0fb985c3de6954553422519de0c1cea
+
